@@ -1,1 +1,13 @@
  
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ body{
+    padding: 10px;
+ }
+ .col{
+    background-color: lightcoral;
+    margin: 2px;
+ }
